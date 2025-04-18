@@ -1,6 +1,6 @@
 package test;
 
-class boxdemo {
+class Box {
     double width;
     double height;
     double depth;
